@@ -44,7 +44,3 @@ Here are some of the projects I’ve been working on:
 
 ---
 
-## GitHub Stats
-
-![Everth's GitHub stats](https://github-readme-stats.vercel.app/api?username=EverthKantun&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverthKantun&layout=compact&theme=tokyonight)
